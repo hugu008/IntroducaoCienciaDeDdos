@@ -1,0 +1,1001 @@
+id,score,nivel,categoria,idade,pais
+1,321057,321,elfo,43,United States
+2,495527,466,mago,16,Canada
+3,700848,255,,54,United States
+4,985558,679,mago,87,Brazil
+5,517633,752,guerreiro,69,Japan
+6,503435,946,elfo,28,Brazil
+7,687322,304,orc,48,C#nada
+8,72763,251,guerreiro,93,Canada
+9,382065,392,guerreiro,45,Portugal
+10,674644,231,orc,50,Japan
+11,695696,982,orc,66,United States
+12,118137,543,orc,26,Canada
+13,574085,787,mago,133,Canada
+14,846864,399,guerreiro,55,United States
+15,638688,937,orc,99,United States
+16,997104,939,guerreiro,85,Mexico
+17,300137,-516,guerreiro,98,United States
+18,966600,602,mago,81,Japan
+19,345550,924,orc,61,Italy
+20,921136,245,guerreiro,50,Brazil
+21,656092,906,elfo,78,Portugal
+22,,598,guerreiro,38,Brazil
+23,776888,937,guerreiro,13,Canada
+24,45591,969,elfo,28,Japan
+25,230427,601,orc,15,United States
+26,441884,351,mago,58,Canada
+27,750188,674,elfo,81,Japan
+28,356438,967,guerreiro,97,Portugal
+29,802772,129,orc,20,United Kingdom
+30,382354,335,mago,34,Brazil
+31,810464,973,elfo,64,Portugal
+32,363356,315,mago,88,Brazil
+33,793937,463,guerreiro,55,United States
+34,199973,795,elfo,42,United States
+35,101178,692,mago,75,Brazil
+36,541231,224,orc,88,Mexico
+37,500151,153,mago,27,Japan
+38,926376,814,mago,90,Portugal
+39,36958,346,guerreiro,72,Brazil
+40,367520,242,mago,72,Mexico
+41,313807,232,mago,97,
+42,402203,642,elfo,74,Canada
+43,520728,65,elfo,87,Mexico
+44,105740,352,mago,32,Portugal
+45,327468,957,guerreiro,73,Portugal
+46,846124,113,orc,80,United States
+47,32270,9,mago,79,Mexico
+48,208825,265,elfo,21,Canada
+49,609710,27,guerreiro,83,Japan
+50,438000,623,elfo,94,United States
+51,168289,148,elfo,99,Portugal
+52,260910,976,mago,,Italy
+53,814325,98,elfo,87,Brazil
+54,417426,833,orc,34,Australia
+55,376097,517,orc,81,United States
+56,46843,999,mago,75,United States
+57,737025,470,orc,66,Brazil
+58,629631,762,mago,99,Brazil
+59,621134,945,elfo,84,Canada
+60,,209,elfo,75,Spain
+61,653376,770,mago,31,Portugal
+62,429550,41,mago,30,Italy
+63,701347,64,elfo,93,United States
+64,848732,349,orc,85,Portugal
+65,27069,497,mago,29,Brazil
+66,434087,458,mago,17,Canada
+67,763617,461,guerreiro,27,Canada
+68,944968,383,guerreiro,40,Brazil
+69,794417,537,orc,89,Japan
+70,972500,652,mago,70,Brazil
+71,31770,476,elfo,51,Portuga&
+72,315664,187,elfo,79,Brazil
+73,298171,183,orc,33,Portugal
+74,624697,41,elfo,76,Mexico
+75,15390,299,orc,59,Japan
+76,992555,584,mago,,Canada
+77,604882,955,guerreiro,49,Brazil
+78,960404,519,guerreiro,14,Brazil
+79,963196,544,mago,96,Mexico
+80,355973,821,elfo,32,Mexico
+81,501617,441,elfo,64,Portugal
+82,432253,844,mago,75,Brazil
+83,247487,262,mago,39,Portugal
+84,541849,183,elfo,41,Brazil
+85,774733,368,guerreiro,92,Canada
+86,264584,546,mago,78,Portugal
+87,543316,798,mago,41,Portugal
+88,462323,312,mago,91,Mexico
+89,429793,805,mago,69,United States
+90,764203,390,orc,50,Japan
+91,627036,54,elfo,64,Canada
+92,598630,2,mago,39,Portugal
+93,370605,240,mago,85,Portugal
+94,447643,787,elfo,74,Portugal
+95,428050,856,elfo,85,Portugal
+96,-464,867,orc,98,Brazil
+97,128631,968,elfo,26,United States
+98,46289,567,orc,76,Brazil
+99,653855,246,mago,44,Portugal
+100,818815,137,mago,26,Brazil
+101,235074,650,guerreiro,23,Japan
+102,415037,956,elfo,83,Japan
+103,191208,119,mago,61,Brazil
+104,275472,834,mago,42,Japan
+105,875375,352,guerreiro,31,Canada
+106,253985,889,elfo,56,Japan
+107,475909,666,orc,36,Canada
+108,678135,481,guerreiro,66,Japan
+109,566388,736,elfo,25,Brazil
+110,782344,876,orc,24,Portugal
+111,990135,338,guerreiro,69,Brazil
+112,503125,871,mago,25,United States
+113,879362,304,mago,56,Japan
+114,405347,303,orc,17,Japan
+115,734105,75,elfo,79,Portugal
+116,802910,749,orc,62,Japan
+117,558707,481,mago,83,Spain
+118,636888,39,guerreiro,29,Australia
+119,314723,787,guerreiro,47,Italy
+120,845427,459,m@go,62,Japan
+121,967804,444,orc,87,Canada
+122,520150,568,mago,79,United States
+123,481924,674,orc,19,Japan
+124,573986,291,orc,43,Brazil
+125,194878,106,mago,34,Mexico
+126,745718,702,mago,45,United States
+127,924169,424,elfo,57,Brazil
+128,119366,530,mago,38,Brazil
+129,607755,502,elfo,46,Japan
+130,414019,737,mago,40,United States
+131,437504,354,orc,50,Brazil
+132,355387,737,guerreiro,34,Brazil
+133,742498,508,elfo,12,Japan
+134,287961,896,orc,92,Brazil
+135,930575,30,guerreiro,77,Brazil
+136,46831,6,elfo,36,Canada
+137,238406,595,elfo,53,Canada
+138,860286,722,elfo,26,Portugal
+139,183976,405,guerreiro,57,Brazil
+140,421188,833,guerreiro,37,Brazil
+141,920611,447,elfo,65,Portugal
+142,504505,256,mago,20,Japan
+143,267982,669,orc,43,Brazil
+144,175279,330,elfo,50,Mexico
+145,391470,644,orc,84,Brazil
+146,712962,959,elfo,57,United States
+147,784010,969,guerreiro,48,Portugal
+148,82970,845,mago,83,Spain
+149,978229,642,mago,,Portugal
+150,442815,53,mago,65,United States
+151,341612,607,elfo,34,Canada
+152,10963,129,elfo,67,Mexico
+153,391544,506,mago,69,Portugal
+154,65823,74,orc,46,Japan
+155,815497,665,mago,61,Mexico
+156,676383,690,mago,74,Japan
+157,211161,616,mago,82,Portugal
+158,532146,429,mago,25,Japan
+159,420898,316,orc,47,Brazil
+160,733988,154,guerreiro,28,Portugal
+161,732039,333,orc,32,United States
+162,26058,687,mago,25,United States
+163,458518,978,mago,51,United Kingdom
+164,413781,237,mago,73,Japan
+165,906908,748,elfo,52,Brazil
+166,32013,568,orc,33,Mexico
+167,57105,332,orc,34,Brazil
+168,818203,786,guerreiro,87,Japan
+169,597265,105,mago,39,Brazil
+170,572618,774,guerreiro,73,Japan
+171,8945,41,orc,31,United States
+172,226310,10,orc,41,Brazil
+173,669555,747,mago,13,Portugal
+174,717292,548,mago,53,Portugal
+175,121354,582,guerreiro,88,Canada
+176,516023,416,orc,91,Canada
+177,471480,458,mago,75,Brazil
+178,311686,801,guerreiro,53,Portugal
+179,993432,604,mago,59,United States
+180,597731,674,mago,56,Brazil
+181,377348,726,guerreiro,78,Brazil
+182,790610,955,elfo,54,Brazil
+183,987268,456,orc,80,Brazil
+184,516291,939,elfo,24,Portugal
+185,219771,565,orc,100,Japan
+186,810809,639,elfo,49,Portugal
+187,584085,895,orc,37,Brazil
+188,859391,676,orc,34,United States
+189,559304,548,orc,78,Brazil
+190,352581,952,elfo,73,Brazil
+191,396424,343,orc,53,Mexico
+192,431690,490,orc,52,Brazil
+193,371448,24,orc,74,Portugal
+194,145522,588,elfo,60,Portugal
+195,328853,796,guerreiro,39,Portugal
+196,310141,515,orc,59,Japan
+197,457731,125,orc,16,Portugal
+198,864522,966,elfo,36,Brazil
+199,915748,422,mago,70,Mexico
+200,652373,95,orc,81,United States
+201,310406,457,elfo,37,Brazil
+202,706945,14,orc,75,Japan
+203,92518,56,mago,74,United States
+204,587944,302,orc,69,Japan
+205,116005,659,mago,18,Portugal
+206,790880,468,orc,66,Mexico
+207,704642,99,guerreiro,28,Brazil
+208,558964,,guerreiro,46,Canada
+209,886898,813,orc,58,Brazil
+210,696658,403,guerreiro,99,Japan
+211,253303,974,guerreiro,88,Mexico
+212,990272,695,elfo,93,Japan
+213,365042,424,elfo,17,United Kingdom
+214,118172,694,elfo,27,Canada
+215,57791,479,guerreiro,89,Brazil
+216,856693,133,elfo,68,Brazil
+217,284153,212,elfo,40,Brazil
+218,449183,502,elfo,51,Brazil
+219,239532,677,orc,74,Brazil
+220,384516,59,guerreiro,95,Portugal
+221,513062,657,orc,41,Canada
+222,583394,838,elfo,53,United States
+223,9158,654,mago,18,Portugal
+224,881242,108,mago,59,Japan
+225,909568,763,mago,45,United States
+226,649775,409,mago,39,Brazil
+227,440597,942,elfo,50,Japan
+228,877688,859,elfo,58,United States
+229,705616,780,guerreiro,68,United States
+230,209397,735,mago,60,Canada
+231,519237,850,guerreiro,40,Spain
+232,520483,882,guerreiro,86,United Kingdom
+233,185750,597,orc,84,Japan
+234,903365,550,guerreiro,71,United Kingdom
+235,761212,492,mago,50,Japan
+236,310390,450,orc,66,Portugal
+237,841974,195,elfo,42,Portugal
+238,390298,276,guerreiro,68,Portugal
+239,602113,137,orc,63,United States
+240,540326,220,mago,95,United States
+241,819288,589,orc,15,Brazil
+242,130796,194,guerreiro,15,Japan
+243,937278,803,mago,95,Japan
+244,652442,268,guerreiro,12,Brazil
+245,439034,32,elfo,41,Brazil
+246,344071,450,guerreiro,54,Brazil
+247,696658,92,elfo,72,Brazil
+248,887314,757,orc,68,Portugal
+249,505745,467,guerreiro,22,United States
+250,254770,339,guerreiro,31,Mexico
+251,454724,337,guerreiro,24,Canada
+252,79575,823,elfo,35,Canada
+253,727661,746,elfo,89,Japan
+254,553162,706,guerreiro,67,Japan
+255,234323,778,elfo,66,Portugal
+256,262960,999,mago,62,United States
+257,428791,178,mago,22,Brazil
+258,202493,452,guerreiro,84,Portugal
+259,442449,541,orc,41,Japan
+260,13911,443,orc,26,Brazil
+261,21434,251,elfo,27,Brazil
+262,16532,74,mago,75,United States
+263,893691,238,orc,79,Canada
+264,961340,337,orc,47,Brazil
+265,773773,39,elfo,47,United States
+266,18452,582,guerreiro,55,Japan
+267,677293,116,guerreiro,78,Spain
+268,364793,959,elfo,17,Brazil
+269,939967,626,elfo,76,United Kingdom
+270,681102,379,mago,95,Portugal
+271,585424,464,mago,80,Japan
+272,152212,986,orc,33,Brazil
+273,513478,117,guerreiro,36,Brazil
+274,847443,419,guerreiro,94,Brazil
+275,465792,381,elfo,35,Mexico
+276,334258,458,mago,59,Japan
+277,951457,512,guerreiro,35,Brazil
+278,819270,62,mago,70,
+279,199939,888,elfo,18,Portugal
+280,545602,78,guerreiro,96,Portugal
+281,705313,326,elfo,61,Brazil
+282,718201,680,guerreiro,95,Brazil
+283,723653,726,orc,59,Japan
+284,66497,319,elfo,95,Brazil
+285,277725,768,orc,39,Brazil
+286,571676,962,mago,37,Mexico
+287,357604,61,orc,41,Portugal
+288,929765,636,orc,15,Japan
+289,378942,614,mago,16,United States
+290,318595,252,mago,59,Italy
+291,549857,695,elfo,71,Brazil
+292,603629,198,guerreiro,32,United States
+293,311194,136,elfo,26,Portugal
+294,900594,840,elfo,29,United States
+295,180612,494,mago,79,Italy
+296,886449,288,orc,55,Brazil
+297,11054,939,elfo,37,Brazil
+298,10645,106,orc,91,Japan
+299,958782,843,elfo,47,Brazil
+300,191741,982,elfo,27,Mexico
+301,44610,204,guerreiro,72,United States
+302,180937,778,elfo,67,United States
+303,266606,916,elfo,80,Brazil
+304,282548,497,mago,80,Japan
+305,424000,912,mago,27,Spain
+306,280882,344,guerreiro,90,Portugal
+307,653041,509,orc,57,Portugal
+308,360296,606,elfo,64,Brazil
+309,795749,861,elfo,87,Portugal
+310,493799,549,guerreiro,99,Portugal
+311,448761,194,orc,33,Portugal
+312,260130,634,mago,18,Portugal
+313,951560,639,guerreiro,70,Mexico
+314,762431,534,elfo,67,Portugal
+315,821370,88,elfo,68,United States
+316,782376,374,elfo,99,Canada
+317,152851,509,mago,50,Portugal
+318,289318,702,orc,73,Canada
+319,411411,431,mago,17,Brazil
+320,529406,548,guerreiro,23,Portugal
+321,511283,996,orc,64,United States
+322,237840,122,orc,30,Portugal
+323,356426,657,elfo,42,Brazil
+324,684361,,mago,64,Canada
+325,553005,74,guerreiro,26,United States
+326,26272,355,mago,86,United States
+327,173107,952,orc,50,Canada
+328,941200,853,guerreiro,34,Brazil
+329,865409,633,guerreiro,93,Japan
+330,247495,125,guerreiro,72,Portugal
+331,819373,463,orc,72,Brazil
+332,578291,112,orc,62,United States
+333,854001,787,mago,84,Brazil
+334,118617,469,orc,75,Brazil
+335,811622,791,elfo,24,Brazil
+336,537259,749,orc,74,Portugal
+337,332226,789,mago,29,Mexico
+338,833701,548,elfo,28,Portugal
+339,360744,178,mago,44,Brazil
+340,583529,842,guerreiro,45,Brazil
+341,208462,577,guerreiro,84,Brazil
+342,81005,25,guerreiro,40,Canada
+343,629827,122,orc,64,Brazil
+344,364044,243,mago,94,Portugal
+345,628381,950,mago,20,United States
+346,830684,15,mago,47,Canada
+347,676054,294,orc,41,United States
+348,510680,877,elfo,21,Australia
+349,524419,884,guerreiro,98,United States
+350,763293,175,elfo,88,Brazil
+351,668892,642,elfo,89,Brazil
+352,431408,307,guerreiro,94,United States
+353,7011,975,guerreiro,21,Japan
+354,989729,623,mago,76,Brazil
+355,976853,981,mago,90,United States
+356,254708,457,mago,38,Portugal
+357,800961,35,orc,82,Italy
+358,986857,826,mago,15,Portugal
+359,938190,324,mago,18,Portugal
+360,438873,514,guerreiro,47,Canada
+361,340579,323,mago,38,United States
+362,658286,547,guerreiro,55,Japan
+363,719170,358,orc,45,Brazil
+364,147526,147,orc,21,Japan
+365,157915,146,mago,31,Italy
+366,769458,89,mago,28,Brazil
+367,109990,824,elfo,67,Brazil
+368,475382,224,orc,77,Portugal
+369,784651,289,mago,91,Australia
+370,94427,932,elfo,90,Brazil
+371,923932,210,elfo,51,Spain
+372,757207,13,guerreiro,30,United States
+373,361098,144,mago,31,Brazil
+374,59468,425,guerreiro,91,Brazil
+375,374657,284,orc,58,Portugal
+376,542072,492,mago,78,United States
+377,993736,526,mago,33,United States
+378,824115,721,elfo,65,Australia
+379,665527,600,guerreiro,47,Brazil
+380,96261,776,mago,84,Brazil
+381,555513,855,mago,14,Brazil
+382,338891,632,mago,24,Portugal
+383,383012,162,elfo,72,Mexico
+384,446054,338,orc,76,Brazil
+385,790131,888,mago,69,Canada
+386,863477,918,mago,20,Japan
+387,596178,276,elfo,43,Japan
+388,966158,509,mago,62,Mexico
+389,387294,442,guerreiro,78,Brazil
+390,820642,205,mago,34,Portugal
+391,793498,921,elfo,42,Italy
+392,398566,661,orc,28,United States
+393,585611,52,guerreiro,37,Japan
+394,412908,839,mago,32,Mexico
+395,574362,270,guerreiro,93,Brazil
+396,273883,392,guerreiro,32,Portugal
+397,669379,373,elfo,99,Portugal
+398,908580,820,guerreiro,17,Brazil
+399,927488,980,guerreiro,18,Japan
+400,994895,416,mago,71,United States
+401,432778,857,guerreiro,94,United States
+402,43448,383,guerreiro,16,Brazil
+403,863231,472,orc,85,United States
+404,866709,979,guerreiro,100,Brazil
+405,104883,146,orc,35,United States
+406,96479,339,guerreiro,75,Japan
+407,713790,52,elfo,80,Canada
+408,278671,987,elfo,54,Japan
+409,480850,997,elfo,37,United States
+410,133066,156,orc,31,United States
+411,262425,3,guerreiro,15,Canada
+412,146075,283,mago,70,United States
+413,287122,82,guerreiro,50,Brazil
+414,747916,145,elfo,78,Portugal
+415,285193,59,elfo,72,Japan
+416,538605,995,elfo,40,Portugal
+417,586039,608,elfo,28,Portugal
+418,601619,208,elfo,33,Portugal
+419,393386,80,orc,84,Canada
+420,715922,87,mago,18,Japan
+421,830422,590,guerreiro,31,Brazil
+422,665382,856,elfo,31,Mexico
+423,96775,30,guerreiro,51,Canada
+424,523670,837,elfo,17,Japan
+425,290879,257,orc,68,Portugal
+426,459638,3,elfo,86,United States
+427,749774,37,mago,86,Portugal
+428,480285,48,elfo,29,Mexico
+429,393092,529,guerreiro,63,Portugal
+430,733245,229,elfo,35,Brazil
+431,331604,592,elfo,85,Japan
+432,209261,803,elfo,69,Mexico
+433,780803,894,guerreiro,22,United States
+434,287945,399,guerreiro,78,Portugal
+435,97979,491,guerreiro,49,United States
+436,304846,797,mago,80,Mexico
+437,880756,429,orc,36,Brazil
+438,939920,460,mago,34,Japan
+439,223241,975,mago,70,Japan
+440,675577,244,guerreiro,53,Brazil
+441,98504,571,guerreiro,37,Canada
+442,473627,844,guerreiro,75,Brazil
+443,128730,742,mago,41,Portugal
+444,632675,748,orc,92,Japan
+445,523432,346,mago,92,United Kingdom
+446,531387,575,guerreiro,50,Mexico
+447,885067,371,guerreiro,89,Portugal
+448,2283,532,orc,45,Portugal
+449,890953,47,elfo,125,Canada
+450,201016,805,mago,24,Portugal
+451,131063,457,mago,28,Japan
+452,216772,349,elfo,62,Brazil
+453,448217,868,orc,98,Portugal
+454,727526,953,elfo,40,United States
+455,318192,844,elfo,32,Mexico
+456,817447,475,mago,72,United States
+457,776700,788,elfo,91,United States
+458,495887,719,mago,22,Brazil
+459,710976,832,elfo,17,Canada
+460,528306,679,orc,13,Japan
+461,771267,988,mago,31,Brazil
+462,540999,65,mago,34,United States
+463,948953,117,orc,71,Portugal
+464,658736,707,guerreiro,24,Portugal
+465,171048,992,mago,70,Brazil
+466,260875,821,guerreiro,51,United States
+467,831219,790,guerreiro,78,Brazil
+468,55957,458,mago,70,Portugal
+469,52122,800,guerreiro,84,Canada
+470,390255,160,mago,100,Portugal
+471,74334,266,guerreiro,53,Portugal
+472,968186,929,orc,51,Canada
+473,177033,763,orc,30,Portugal
+474,377145,234,elfo,72,Brazil
+475,335195,716,elfo,71,United Kingdom
+476,98316,928,orc,62,United States
+477,761486,781,elfo,79,Mexico
+478,723980,455,elfo,98,Japan
+479,827279,542,guerreiro,54,Brazil
+480,93755,707,mago,24,Brazil
+481,397450,830,orc,19,Canada
+482,315624,982,mago,84,United States
+483,488673,391,mago,74,Portugal
+484,660562,230,guerreiro,38,Brazil
+485,81928,699,orc,35,United Kingdom
+486,232142,612,mago,81,Portugal
+487,88654,846,guerreiro,75,Portugal
+488,674617,154,mago,100,Brazil
+489,17550,146,mago,18,Brazil
+490,716695,32,guerreiro,62,Brazil
+491,638822,467,mago,32,Brazil
+492,260860,440,mago,94,Japan
+493,89117,809,mago,85,Brazil
+494,198028,648,orc,87,Canada
+495,131606,749,mago,43,Canada
+496,391742,122,mago,20,Mexico
+497,451681,308,mago,93,Portugal
+498,881309,153,orc,63,United States
+499,227717,767,mago,60,Portugal
+500,285780,468,orc,89,Brazil
+501,584501,726,mago,72,Mexico
+502,730829,85,guerreiro,99,Spain
+503,467881,250,orc,15,Japan
+504,485656,751,elfo,45,Brazil
+505,743995,785,guerreiro,18,Japan
+506,760699,519,,34,Portugal
+507,221376,795,guerreiro,55,Mexico
+508,22775,152,guerreiro,67,Japan
+509,585291,551,elfo,69,Portugal
+510,249702,136,mago,99,Portugal
+511,943619,857,orc,72,Brazil
+512,164461,737,guerreiro,47,United Kingdom
+513,360825,968,elfo,30,Portugal
+514,170325,829,elfo,96,Brazil
+515,665571,298,elfo,79,Portugal
+516,471870,383,mago,66,United States
+517,256202,688,elfo,14,United States
+518,533982,650,orc,81,Brazil
+519,629930,424,guerreiro,20,Portugal
+520,590166,320,orc,64,Portugal
+521,221184,122,guerreiro,45,Brazil
+522,243165,137,guerreiro,60,Portugal
+523,434442,140,elfo,62,Brazil
+524,990598,306,elfo,21,Brazil
+525,140709,219,mago,74,United States
+526,821896,76,elfo,59,Brazil
+527,689852,487,elfo,63,Portugal
+528,58798,952,orc,77,Brazil
+529,424356,380,orc,38,Brazil
+530,755263,414,mago,52,United States
+531,717330,27,mago,13,Japan
+532,292445,883,elfo,62,United States
+533,750957,612,mago,77,Brazil
+534,96027,503,elfo,59,United States
+535,92080,562,guerreiro,73,Brazil
+536,903266,485,orc,57,Canada
+537,819240,115,guerreiro,17,Brazil
+538,159220,598,mago,97,Canada
+539,244401,343,mago,71,Brazil
+540,809724,476,orc,56,Portugal
+541,86322,622,elfo,41,Portugal
+542,658213,990,guerreiro,84,Brazil
+543,345769,85,mago,68,United States
+544,233675,244,guerreiro,37,Portugal
+545,344854,380,elfo,38,United States
+546,892307,531,orc,35,Brazil
+547,808724,132,orc,90,Canada
+548,585289,469,orc,94,Brazil
+549,367135,316,mago,83,United States
+550,317773,934,orc,93,Mexico
+551,334007,389,orc,29,Portugal
+552,102607,38,guerreiro,27,Brazil
+553,72304,595,orc,96,Japan
+554,270581,792,elfo,22,Japan
+555,302456,453,orc,36,Portugal
+556,320911,529,mago,25,Brazil
+557,866037,16,guerreiro,20,Japan
+558,456836,889,elfo,82,Brazil
+559,54412,16,guerreiro,53,United States
+560,535857,68,orc,69,United Kingdom
+561,62448,17,orc,22,Portugal
+562,891900,534,guerreiro,57,Brazil
+563,308134,129,guerreiro,64,Brazil
+564,681010,65,guerreiro,41,Brazil
+565,942531,137,orc,99,Portugal
+566,153592,188,elfo,61,Brazil
+567,664298,95,orc,86,Japan
+568,749624,231,elfo,60,Portugal
+569,276605,85,mago,50,Canada
+570,46015,189,mago,30,Portugal
+571,994807,571,guerreiro,67,Portugal
+572,257359,837,mago,97,Canada
+573,237708,199,guerreiro,45,Portugal
+574,755616,475,elfo,71,Japan
+575,572338,453,elfo,84,Portugal
+576,482354,106,orc,81,Portugal
+577,620198,872,elfo,45,Portugal
+578,716994,288,orc,24,United States
+579,725828,633,elfo,88,United States
+580,656132,604,elfo,96,Brazil
+581,814344,188,mago,91,United States
+582,96231,462,orc,21,Brazil
+583,507929,812,elfo,23,United States
+584,183407,635,,45,United States
+585,666699,644,guerreiro,62,United States
+586,478616,998,elfo,73,Portugal
+587,682689,482,orc,58,United States
+588,782890,254,orc,89,Portugal
+589,296499,501,orc,90,Portugal
+590,389677,85,mago,28,Japan
+591,850940,10,elfo,73,Mexico
+592,182014,336,elfo,61,Portugal
+593,390826,58,elfo,32,Brazil
+594,511216,76,elfo,28,Japan
+595,775245,76,elfo,17,Brazil
+596,197819,261,mago,30,Brazil
+597,301843,247,elfo,26,Portugal
+598,693036,208,mago,45,Japan
+599,912265,445,orc,93,Japan
+600,713985,314,guerreiro,35,Mexico
+601,741674,135,orc,75,Australia
+602,232519,577,guerreiro,81,Portugal
+603,789296,341,orc,51,United States
+604,680667,768,guerreiro,58,Mexico
+605,117848,36,mago,77,United States
+606,345202,984,elfo,82,Portugal
+607,641938,864,guerreiro,56,Portugal
+608,789594,12,guerreiro,79,Brazil
+609,884,328,elfo,17,Brazil
+610,954866,412,elfo,70,Brazil
+611,923740,339,guerreiro,16,United States
+612,455009,76,orc,90,Japan
+613,311391,471,elfo,34,Brazil
+614,859067,281,mago,51,United States
+615,498706,602,elfo,20,Mexico
+616,41081,913,mago,34,Brazil
+617,844936,615,guerreiro,80,United States
+618,633329,541,mago,77,Canada
+619,498160,447,orc,65,United States
+620,757950,628,mago,93,Brazil
+621,552547,831,orc,30,Portugal
+622,810315,119,guerreiro,67,Japan
+623,204344,659,guerreiro,20,Japan
+624,289913,739,guerreiro,46,Portugal
+625,337019,148,mago,97,Portugal
+626,771530,525,guerreiro,98,Brazil
+627,203507,621,guerreiro,88,Portugal
+628,123902,453,elfo,53,Brazil
+629,408993,570,elfo,34,Portugal
+630,596571,864,mago,99,Brazil
+631,63994,88,orc,27,Brazil
+632,856218,991,orc,41,Brazil
+633,449612,884,guerreiro,43,Brazil
+634,195013,778,guerreiro,67,United States
+635,487915,19,mago,64,Brazil
+636,683769,804,mago,35,Portugal
+637,895580,164,mago,30,United States
+638,185103,564,mago,74,Portugal
+639,448446,464,orc,69,Japan
+640,974182,56,elfo,39,Portugal
+641,513587,826,orc,15,Mexico
+642,415384,628,guerreiro,13,Brazil
+643,455178,731,orc,52,Australia
+644,853531,807,elfo,61,Japan
+645,291944,250,mago,45,United States
+646,566719,535,orc,66,Brazil
+647,729000,11,mago,75,Japan
+648,868156,763,mago,29,Canada
+649,405815,673,orc,63,Italy
+650,232806,136,orc,84,Brazil
+651,635968,667,guerreiro,30,United States
+652,585448,147,guerreiro,63,Brazil
+653,435354,271,orc,69,Mexico
+654,407430,926,elfo,86,Portugal
+655,610409,805,elfo,20,Canada
+656,596766,370,orc,19,Brazil
+657,898888,758,orc,92,Brazil
+658,751013,811,guerreiro,89,Brazil
+659,825479,814,mago,95,Japan
+660,241623,330,orc,65,Brazil
+661,756836,409,guerreiro,31,Japan
+662,530983,606,orc,14,Brazil
+663,822086,223,orc,69,Spain
+664,672373,99,elfo,53,Canada
+665,832589,537,guerreiro,14,Spain
+666,223230,588,mago,66,Canada
+667,993436,426,mago,97,Canada
+668,236091,170,mago,58,Portugal
+669,12439,219,mago,84,United States
+670,138673,833,mago,66,Portugal
+671,835759,622,elfo,80,Brazil
+672,446630,535,elfo,82,Brazil
+673,526333,20,elfo,38,Canada
+674,756018,443,guerreiro,59,United States
+675,589461,471,guerreiro,26,Portugal
+676,904772,827,orc,30,Japan
+677,247087,424,orc,38,Portugal
+678,818764,867,mago,14,Brazil
+679,26466,596,guerreiro,56,Portugal
+680,472175,697,orc,52,Japan
+681,740148,776,elfo,96,Canada
+682,969616,116,mago,75,Brazil
+683,586813,634,elfo,64,Mexico
+684,427131,417,guerreiro,64,Brazil
+685,466958,582,guerreiro,83,Japan
+686,491558,50,elfo,13,Brazil
+687,797563,633,elfo,80,Mexico
+688,854376,434,mago,90,Canada
+689,800436,99,orc,59,Brazil
+690,100212,610,guerreiro,83,Brazil
+691,876083,780,mago,65,Japan
+692,785039,874,elfo,36,Brazil
+693,524081,786,mago,23,Portugal
+694,33207,604,mago,48,Brazil
+695,22502,865,mago,74,Brazil
+696,125800,164,orc,72,Japan
+697,176166,43,guerreiro,100,Portugal
+698,475643,635,orc,55,Brazil
+699,786504,492,mago,29,Brazil
+700,785811,651,guerreiro,71,Mexico
+701,99548,773,elfo,85,Portugal
+702,180166,489,mago,41,Portugal
+703,205911,660,guerreiro,79,Japan
+704,679715,238,orc,65,Canada
+705,183006,284,guerreiro,100,Japan
+706,448278,1000,elfo,34,Portugal
+707,266855,85,guerreiro,54,Portugal
+708,273052,-103,guerreiro,20,Portugal
+709,737118,636,orc,73,Japan
+710,754268,486,orc,97,Brazil
+711,901167,874,guerreiro,36,Mexico
+712,516206,458,guerreiro,63,Portugal
+713,692923,732,orc,27,Brazil
+714,975285,851,elfo,59,Brazil
+715,799208,661,mago,80,United States
+716,629070,442,orc,42,Japan
+717,384683,885,guerreiro,71,Brazil
+718,640716,579,elfo,73,Brazil
+719,99582,590,mago,86,Brazil
+720,495837,921,guerreiro,37,United Kingdom
+721,506106,711,mago,23,Brazil
+722,569323,29,elfo,23,Portugal
+723,3000,480,orc,19,Brazil
+724,714990,849,mago,71,Canada
+725,261109,378,mago,65,Portugal
+726,466241,761,orc,38,Brazil
+727,35007,247,orc,81,Canada
+728,37721,333,elfo,81,United States
+729,416640,243,elfo,77,Brazil
+730,294377,91,orc,87,Portugal
+731,849544,302,elfo,20,Portugal
+732,785802,22,guerreiro,24,Canada
+733,911498,767,mago,36,Portugal
+734,524365,517,elfo,97,Canada
+735,279359,362,orc,99,Portugal
+736,172754,493,mago,44,United States
+737,221589,298,mago,61,Brazil
+738,736181,260,orc,22,Canada
+739,868397,349,orc,53,Brazil
+740,186410,688,guerreiro,73,Brazil
+741,520363,614,elfo,17,United States
+742,501759,550,guerreiro,59,Mexico
+743,667482,155,guerreiro,65,United Kingdom
+744,977324,276,guerreiro,80,Canada
+745,250585,326,guerreiro,65,Portugal
+746,637709,917,elfo,21,Portugal
+747,827229,688,mago,16,Portugal
+748,547264,65,orc,86,Brazil
+749,29334,122,guerreiro,35,Portugal
+750,711467,603,elfo,19,Japan
+751,578513,485,orc,63,United States
+752,748228,436,guerreiro,35,Brazil
+753,711097,961,orc,44,Japan
+754,171554,85,elfo,66,Japan
+755,157168,251,guerreiro,90,United States
+756,19336,132,guerreiro,85,Portugal
+757,523206,500,mago,96,United States
+758,94313,304,guerreiro,69,United States
+759,109960,553,guerreiro,86,Brazil
+760,61513,735,elfo,69,Brazil
+761,937365,994,guerreiro,12,United States
+762,665896,740,orc,20,Portugal
+763,383142,335,guerreiro,98,Portugal
+764,546956,88,orc,65,Brazil
+765,333044,402,guerreiro,61,Mexico
+766,782412,552,guerreiro,29,%apan
+767,9854,239,elfo,46,Mexico
+768,23843,311,orc,29,Portugal
+769,663288,716,elfo,81,Brazil
+770,865463,80,mago,70,Portugal
+771,641496,763,mago,16,United States
+772,585481,939,mago,44,Brazil
+773,325066,251,orc,56,Portugal
+774,105218,560,elfo,89,Canada
+775,298059,258,orc,32,Spain
+776,213177,123,orc,41,Portugal
+777,109524,450,elfo,88,Spain
+778,35322,111,guerreiro,91,Canada
+779,870635,751,guerreiro,96,Mexico
+780,688471,563,mago,56,Mexico
+781,957037,829,mago,85,Brazil
+782,982086,404,mago,82,United States
+783,179654,926,guerreiro,44,Japan
+784,146938,602,orc,25,Brazil
+785,455387,495,elfo,15,Canada
+786,72501,670,guerreiro,13,Japan
+787,383492,920,orc,63,Portugal
+788,763524,12,mago,53,Brazil
+789,540871,722,orc,50,Portugal
+790,829406,627,orc,25,Brazil
+791,882639,839,elfo,80,Japan
+792,165794,650,guerreiro,65,Portugal
+793,502244,546,mago,31,Portugal
+794,230350,923,orc,81,Portugal
+795,884710,623,orc,48,Portugal
+796,624591,749,orc,51,Portugal
+797,448402,234,mago,70,United States
+798,680796,511,guerreiro,83,Mexico
+799,293242,763,elfo,59,United States
+800,279167,856,elfo,58,United States
+801,582165,237,elfo,88,Brazil
+802,315434,666,mago,35,Brazil
+803,656041,854,mago,75,Portugal
+804,858886,332,orc,22,United States
+805,169999,869,guerreiro,59,United States
+806,619455,179,mago,37,United States
+807,782264,484,guerreiro,92,United States
+808,745565,796,guerreiro,44,Canada
+809,52937,472,guerreiro,44,Japan
+810,409310,399,guerreiro,97,Portugal
+811,335096,322,mago,65,Canada
+812,422106,629,guerreiro,22,Brazil
+813,9363,982,orc,18,United States
+814,138326,797,mago,56,United States
+815,543022,749,guerreiro,42,United States
+816,636403,165,elfo,34,Canada
+817,70790,52,elfo,47,Japan
+818,414231,447,orc,52,Portugal
+819,633698,440,elfo,75,Brazil
+820,748357,614,guerreiro,23,Mexico
+821,291774,654,mago,78,Portugal
+822,196915,816,orc,91,Brazil
+823,527446,962,elfo,37,Canada
+824,739185,788,elfo,92,Mexico
+825,747716,346,orc,35,United States
+826,694261,421,mago,93,United Kingdom
+827,124791,537,orc,95,Portugal
+828,46150,472,mago,61,Canada
+829,295975,528,mago,49,United States
+830,23482,177,guerreiro,60,Brazil
+831,651107,652,orc,58,United States
+832,835107,500,elfo,64,United States
+833,181872,692,mago,82,Brazil
+834,665327,978,elfo,69,Brazil
+835,49617,900,mago,99,Portugal
+836,329393,234,elfo,40,Portugal
+837,627252,288,mago,36,Canada
+838,885475,163,elfo,42,Japan
+839,54715,672,orc,21,Mexico
+840,556751,210,orc,80,Brazil
+841,875669,7,mago,100,Portugal
+842,59794,556,elfo,23,United States
+843,998871,949,guerreiro,14,Brazil
+844,154906,515,mago,36,Canada
+845,385351,603,mago,45,Brazil
+846,935081,78,mago,60,Portugal
+847,101357,170,orc,42,Brazil
+848,21639,199,orc,79,Brazil
+849,528341,549,guerreiro,79,Portugal
+850,330835,790,elfo,64,Brazil
+851,921322,639,mago,76,Portugal
+852,822543,382,mago,82,Brazil
+853,837523,455,guerreiro,62,Portugal
+854,629418,167,elfo,61,Portugal
+855,996957,605,guerreiro,53,United States
+856,576097,102,guerreiro,76,Mexico
+857,404563,789,guerreiro,16,Portugal
+858,259393,301,elfo,95,Brazil
+859,905729,340,guerreiro,61,Brazil
+860,371153,805,orc,79,Brazil
+861,40644,900,guerreiro,15,Portugal
+862,390651,25,orc,71,Spain
+863,344008,734,mago,16,Japan
+864,802645,180,guerreiro,48,Brazil
+865,996542,976,guerreiro,98,United Kingdom
+866,512803,381,mago,50,Canada
+867,840329,742,orc,48,Japan
+868,14109,400,guerreiro,79,Brazil
+869,799556,268,mago,50,Brazil
+870,207448,592,orc,97,Canada
+871,966348,967,elfo,43,Portugal
+872,205159,182,mago,78,Canada
+873,485758,590,mago,81,Canada
+874,72091,12,mago,37,United States
+875,624822,840,mago,52,Japan
+876,223729,17,guerreiro,42,Canada
+877,875126,818,elfo,64,Japan
+878,247761,180,guerreiro,23,Portugal
+879,45266,361,orc,94,Spain
+880,4921,121,mago,21,Brazil
+881,585677,946,mago,52,Canada
+882,521566,37,orc,68,Brazil
+883,407905,798,orc,84,Mexico
+884,836886,165,elfo,36,Portugal
+885,94412,518,elfo,77,Brazil
+886,688442,174,elfo,81,United States
+887,921506,155,mago,96,Brazil
+888,190133,971,orc,37,Japan
+889,286099,615,mago,46,Mexico
+890,455351,196,elfo,55,Mexico
+891,167212,929,orc,95,Brazil
+892,514321,753,mago,98,United States
+893,164359,397,orc,86,Portugal
+894,689605,824,mago,62,Portugal
+895,127202,964,orc,58,Brazil
+896,947794,78,mago,98,Brazil
+897,236260,126,guerreiro,75,Portugal
+898,400741,308,mago,17,Japan
+899,520406,637,mago,52,Portugal
+900,28943,942,orc,52,Portugal
+901,939145,644,orc,86,Brazil
+902,283455,397,orc,78,Japan
+903,563372,490,mago,47,Portugal
+904,917767,661,mago,56,Brazil
+905,350390,285,orc,65,United States
+906,679147,871,mago,95,Japan
+907,977475,54,mago,75,Japan
+908,291725,679,orc,23,Portugal
+909,586053,145,guerreiro,58,United States
+910,326869,219,orc,44,Mexico
+911,818506,195,elfo,91,Brazil
+912,918068,264,mago,66,Mexico
+913,133978,698,elfo,18,Canada
+914,837071,484,elfo,32,Portugal
+915,155577,490,orc,100,Portugal
+916,203413,123,guerreiro,74,Portugal
+917,903147,465,guerreiro,80,Mexico
+918,348382,20,orc,19,Mexico
+919,355548,483,mago,87,Canada
+920,599860,695,mago,23,Portugal
+921,950143,313,mago,38,Brazil
+922,279477,440,guerreiro,94,Brazil
+923,952221,85,mago,61,Portugal
+924,713175,496,elfo,12,Mexico
+925,982398,425,guerreiro,48,Portugal
+926,644607,716,orc,50,Canada
+927,520872,477,orc,24,Japan
+928,942671,227,mago,28,Portugal
+929,902614,183,mago,18,Brazil
+930,79671,321,guerreiro,48,Brazil
+931,845083,613,guerreiro,34,United States
+932,250184,290,orc,40,Portugal
+933,563778,136,mago,43,Mexico
+934,45326,645,mago,60,Brazil
+935,485208,741,orc,43,Canada
+936,45574,378,mago,81,Brazil
+937,511722,183,guerreiro,27,Brazil
+938,428862,152,orc,56,Mexico
+939,626267,720,guerreiro,36,Japan
+940,405026,983,elfo,82,Portugal
+941,292756,208,elfo,67,Portugal
+942,647564,232,guerreiro,27,Brazil
+943,429580,661,elfo,98,United Kingdom
+944,611088,896,elfo,74,Portugal
+945,118713,997,guerreiro,85,United States
+946,223767,638,guerreiro,98,Brazil
+947,811983,477,elfo,59,Brazil
+948,216076,312,elfo,34,Portugal
+949,466973,788,guerreiro,43,Japan
+950,674575,299,elfo,69,United States
+951,810605,30,mago,59,Mexico
+952,637201,231,orc,61,Japan
+953,874584,472,orc,77,Portugal
+954,227791,891,guerreiro,92,Brazil
+955,327827,559,guerreiro,87,Mexico
+956,261240,589,mago,83,United States
+957,273334,130,orc,57,Brazil
+958,382233,184,orc,30,Japan
+959,831200,835,mago,27,Portugal
+960,850707,671,mago,14,United States
+961,837251,280,guerreiro,56,Portugal
+962,255595,457,elfo,30,Japan
+963,857074,24,mago,97,Brazil
+964,367136,270,mago,93,Portugal
+965,206486,683,guerreiro,27,Portugal
+966,431025,175,orc,27,Brazil
+967,428428,3,orc,62,Brazil
+968,946931,816,mago,32,Portugal
+969,385204,632,guerreiro,84,Japan
+970,334948,922,guerreiro,68,United States
+971,106880,1,elfo,61,Canada
+972,592661,747,orc,58,Portugal
+973,441375,909,mago,66,United States
+974,341633,596,elfo,45,United States
+975,167632,888,mago,83,Brazil
+976,816803,495,elfo,61,Mexico
+977,856177,598,guerreiro,20,Brazil
+978,707727,719,elfo,27,United States
+979,19598,815,orc,27,Canada
+980,709115,964,guerreiro,96,United States
+981,605689,500,elfo,39,Brazil
+982,464452,45,orc,76,United States
+983,761830,340,mago,86,Brazil
+984,371624,558,elfo,25,Brazil
+985,327595,901,guerreiro,20,Brazil
+986,12032,801,orc,72,Brazil
+987,713281,512,orc,13,Brazil
+988,243759,375,orc,67,Brazil
+989,359607,269,guerreiro,14,Mexico
+990,419314,676,elfo,19,Mexico
+991,837173,387,orc,20,Portugal
+992,897183,628,guerreiro,89,Japan
+993,125749,138,elfo,79,Mexico
+994,20586,620,orc,27,United States
+995,234294,353,mago,30,Canada
+996,146132,417,elfo,78,Japan
+997,845482,588,orc,69,Portugal
+998,230131,660,mago,57,Japan
+999,635044,731,orc,17,Brazil
+1000,317887,477,orc,64,Brazil
